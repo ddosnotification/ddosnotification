@@ -49,5 +49,5 @@ I'm passionate about creating both open-source and private solutions that push t
 ---
 
 <div align="center">
-<i>Building a safer internet, one line of code at a time.</i>
+<i>Always doing it with heart!</i>
 </div>
