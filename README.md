@@ -37,7 +37,7 @@ I'm passionate about creating both open-source and private solutions that push t
 
 - 📧 Email:  [gejdos@alos.gg](mailto:gejdos@alos.gg)
 - 💬 Discord: [@ddosnotification](https://discord.com/users/869826032356700200)
-- 📱 Telegram: [@ddosnotification](https://t.me/ddosnotification)
+- 📱 Twitter: [@ddosnotification](https://x.com/ddosntfcion)
 
 ## 🎯 Fun Facts
 
