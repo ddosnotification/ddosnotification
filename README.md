@@ -48,6 +48,4 @@ I'm passionate about creating both open-source and private solutions that push t
 
 ---
 
-<div align="center">
-<i>Always doing it with heart!</i>
-</div>
+![](https://komarev.com/ghpvc/?username=ddosnotification)
